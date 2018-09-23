@@ -1,0 +1,13 @@
+html, body {
+    background: lightslategrey;
+    font-family: monospace;
+    user-select: none;
+}
+
+/* Начало стилей контейнера app */
+
+.app-container{
+
+}
+
+/* Конец стилей контейнера app */
